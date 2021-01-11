@@ -8,5 +8,5 @@
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with C#
 - 💬 Ask me about anything i can help with...
-- 📫 How to reach me: in progress...
+- 📫 How to reach me: 🐥[twitter](https://twitter.com/joaojesus81)
 - ⚡ Fun fact: due to a language similarity when i enrolled to learn CAD (computer assisted drawing) i thought i was going to have bus learning lessons
