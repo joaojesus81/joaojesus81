@@ -3,8 +3,8 @@
 <!--
 **joaojesus81/joaojesus81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I’m currently working on a Vue 3 frontend
-- 🌱 I’m currently learning Vue 3
+- 🔭 I’m currently working on a NodeJS backend
+- 🌱 I’m currently learning Docker and Docker orchestration
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with C#
 - 💬 Ask me about anything i can help with...
