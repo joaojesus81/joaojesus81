@@ -16,3 +16,5 @@
 <kbd>B</kbd>est places to reach me: [Github](https://github.com/joaojesus81), [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-jesus-6b50a340/) or [Mastodon](https://glasgow.social/@toffle)
 
 <kbd>!</kbd> Fun fact: I use a shoe holder from Ikea as a laptop stand and think it's the best DIY in the world!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaojesus81)](https://github.com/anuraghazra/github-readme-stats)
